@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS519.N11 Phương pháp luận nghiên cứu khoa học</b></h1>
+<h1 align="center"><b>CS2205.CH201 Phương pháp nghiên cứu khoa học</b></h1>
 
 
 
@@ -17,7 +17,7 @@
 * [ Đồ án môn học](#doan)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**: Phương pháp luận nghiên cứu khoa học
+* **Tên môn học**: Phương pháp nghiên cứu khoa học
 * **Mã môn học**: CS2205
 * **Lớp học**: CS2205.CH201
 * **Học kỳ**: 1
@@ -72,8 +72,8 @@ Lí do cần phải học phương pháp học (learn how to learn) vì:
 | 1      | 250101078      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |vyltp.20@grad.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. TÊN ĐỀ TÀI: GUIDED ANCHORING CASCADE R-CNN: SỰ CẢI TIẾN CHO HỌ R-CNN  TRONG BÀI TOÁN PHÁT HIỆN ĐỐI TƯỢNG TRÊN ẢNH TÀI LIỆU TIẾNG VIỆT
-2. TÊN ĐỀ TÀI TIẾNG ANH: GUIDED ANCHORING CASCADE R-CNN: AN INTENSIVE IMPROVEMENT OF R-CNN IN VIETNAMESE DOCUMENT DETECTION
+1. TÊN ĐỀ TÀI: 2. TÊN ĐỀ TÀI TIẾNG ANH: GXÂY DỰNG TÁC TỬ TỰ ĐỘNG HÓA TÁC VỤ WEB DỰA TRÊN MÔ HÌNH NGÔN NGỮ LỚN VỚI CƠ CHẾ HAI GIAI ĐOẠN THỬ NGHIỆM - ĐÁNH GIÁ (TRY-THEN-EVAL) 
+2. TÊN ĐỀ TÀI TIẾNG ANH: BUILDING AN LLM-BASED AGENT FOR WEB TASK AUTOMATION USING A TWO-PHASE TRY-THEN-EVAL MECHANISM
 ## BÁO CÁO ĐỒ ÁN YOUTUBE
-Link video: https://www.youtube.com/watch?v=Jq76H0KSZtM
+Link video: https://youtu.be/9sGxZXRlei0
 
