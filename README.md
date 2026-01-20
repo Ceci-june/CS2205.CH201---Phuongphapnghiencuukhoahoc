@@ -72,7 +72,7 @@ Lí do cần phải học phương pháp học (learn how to learn) vì:
 | 1      | 250101078      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |vyltp.20@grad.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. TÊN ĐỀ TÀI: 2. TÊN ĐỀ TÀI TIẾNG ANH: GXÂY DỰNG TÁC TỬ TỰ ĐỘNG HÓA TÁC VỤ WEB DỰA TRÊN MÔ HÌNH NGÔN NGỮ LỚN VỚI CƠ CHẾ HAI GIAI ĐOẠN THỬ NGHIỆM - ĐÁNH GIÁ (TRY-THEN-EVAL) 
+1. TÊN ĐỀ TÀI: XÂY DỰNG TÁC TỬ TỰ ĐỘNG HÓA TÁC VỤ WEB DỰA TRÊN MÔ HÌNH NGÔN NGỮ LỚN VỚI CƠ CHẾ HAI GIAI ĐOẠN THỬ NGHIỆM - ĐÁNH GIÁ (TRY-THEN-EVAL) 
 2. TÊN ĐỀ TÀI TIẾNG ANH: BUILDING AN LLM-BASED AGENT FOR WEB TASK AUTOMATION USING A TWO-PHASE TRY-THEN-EVAL MECHANISM
 ## BÁO CÁO ĐỒ ÁN YOUTUBE
 Link video: https://youtu.be/9sGxZXRlei0
